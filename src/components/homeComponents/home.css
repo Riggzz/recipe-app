@@ -1,0 +1,41 @@
+.ad_banner {
+    width: 100%;
+    height: 450px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    color: white;
+    background-size: cover;
+  }
+
+  
+.adtext {
+    width: 770px;
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 10px;
+  }
+  
+  h1 {
+    font-size: 64px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(186,123,5);
+  }
+  
+  
+  h3 {
+    font-size: 24px;
+  }
+
+  .blue-btn{
+    color: white;
+    background-color: rgb(48,120,113);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: none;
+    padding: 10px;
+  }
